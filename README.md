@@ -10,7 +10,7 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 
 ### Technologies & Tools:
 
-*Languages*: C++, Java, Python, JavaScript, SQL(MySQL, PLSQL)
+*Languages*: C++, Java, Python, Dart JavaScript, SQL(MySQL, PLSQL)
 
 *Frameworks/Libraries*: Node.js, Flutter, Express
 
