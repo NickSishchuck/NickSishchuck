@@ -8,10 +8,9 @@ My name is Nick! I am a backend developer and a C++ software engineer.
   - Express.js – for server-side JavaScript
 
 📊 GitHub Statistics
-<div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=NickSishchuck&show_icons=true&theme=dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickSishchuck&layout=compact&theme=dark"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSishchuck&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSishchuck&&theme=dark)
 
 ### Technologies & Tools:
 ### Languages
