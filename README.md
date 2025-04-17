@@ -5,7 +5,6 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 - 🌱 I’m currently learning:
   - Rust – for memory-safe optimized solutions
   - Java – for broader backend or enterprise expertise
-  - Express.js – for server-side JavaScript
 
 📊 GitHub Statistics
 
