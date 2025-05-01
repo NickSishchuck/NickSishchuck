@@ -10,7 +10,6 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSishchuck&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSishchuck&&theme=dark)
 
 ### Technologies & Tools:
 ### Languages
