@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Nick! I am a backend developer and a C++ software engineer.
 
-- 🔭 My current projects are: AirlinesAPI (term paper for colledge), Basic renderer for my engine.
+- 🔭 My current projects are: AirlinesAPI (term paper for colledge), Basic renderer for my upcoming simulation engine.
 - 🌱 I’m currently learning:
   - Rust – for memory-safe optimized solutions
   - Java – for broader backend or enterprise expertise
@@ -25,12 +25,13 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 ### Frameworks & Tools
 | Technology  | Proficiency                                                   | Level       |
 |-------------|---------------------------------------------------------------|-------------|
-| GLFW3       | ███████░░░ | Intermediate |
+|OpenGL(GLFW3)| ████░░░░░░ | Beginner+    |
 | Node.js     | ███████░░░ | Intermediate |
 | Express     | ████░░░░░░ | Beginner+    |
 | Flutter     | ████████░░ | Intermediate+|
 | Docker      | ████░░░░░░ | Beginner+    |
 | Git         | █████████░ | Advanced     |
+| CMake       | ████████░░ | Intermediate+|
 
 
 ### Systems
