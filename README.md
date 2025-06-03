@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Nick! I am a backend developer and a C++ software engineer.
 
-- 🔭 My current projects are: AirlinesAPI (term paper for colledge), Basic renderer for my upcoming simulation engine.
+<!-- - 🔭 My current projects are: -->
 - 🌱 I’m currently learning:
   - Rust – for memory-safe optimized solutions
   - Java – for broader backend or enterprise expertise
