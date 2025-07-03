@@ -1,10 +1,12 @@
 ## Hi there 👋
 My name is Nick! I am a backend developer and a C++ software engineer.
 
-<!-- - 🔭 My current projects are: -->
+- 🔭 I'm currently working on:
+  - Telegram bot for a private educational center. (Java 21, Spring Boot)
+
+
 - 🌱 I’m currently learning:
-  - Rust – for memory-safe optimized solutions
-  - Java – for broader backend or enterprise expertise
+  - Java – for broader backend and enterprise expertise
 
 📊 GitHub Statistics
 
@@ -32,13 +34,14 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 | Docker      | ████░░░░░░ | Beginner+    |
 | Git         | █████████░ | Advanced     |
 | CMake       | ████████░░ | Intermediate+|
+| Spring Boot | ████░░░░░░ | Beginner+    |
 
 
 ### Systems
 | Technology  | Proficiency                                                   | Level       |
 |-------------|---------------------------------------------------------------|-------------|
-| Windows     | █████████░ | Advanced |
-| Linux       | ███████░░░ | Intermediate |
+| Windows     | █████████░ | Advanced      |
+| Linux       | ████████░░ | Intermediate +|
 
 <!-- 
 Proficiency Scale:
