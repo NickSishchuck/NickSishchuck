@@ -35,6 +35,8 @@ My name is Nick! I am a backend developer and a C++ software engineer.
 | Git         | █████████░ | Advanced     |
 | CMake       | ████████░░ | Intermediate+|
 | Spring Boot | ████░░░░░░ | Beginner+    |
+| Maven       | ████░░░░░░ | Beginner+    |
+| Jenkins     | ██░░░░░░░░ | Beginner     |
 
 
 ### Systems
