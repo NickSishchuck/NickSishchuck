@@ -1,12 +1,13 @@
 ## Hi there 👋
-My name is Nick! I am a backend developer and a C++ software engineer.
+My name is Nick! I am a Software Engineer.
 
 - 🔭 I'm currently working on:
-  - Telegram bot for a private educational center. (Java 21, Spring Boot)
+  - Scalable C++ banking system
+  - *College project*: Cloud Storage system
 
 
 - 🌱 I’m currently learning:
-  - Java – for broader backend and enterprise expertise
+  - Spring Boot framework 
 
 📊 GitHub Statistics
 
