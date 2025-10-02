@@ -2,7 +2,7 @@
 My name is Nick! I am a Software Engineer.
 
 - 🔭 I'm currently working on:
-  - Scalable C++ banking system
+  - Cloud computing service
   - *College project*: Cloud Storage system
 
 
