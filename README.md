@@ -4,6 +4,7 @@ My name is Nick! I am a Software Engineer.
 - 🔭 I'm currently working on:
   - Cloud computing service
   - *College project*: Cloud Storage system
+  - Rust cli util to track worktime
 
 
 - 🌱 I’m currently learning:
